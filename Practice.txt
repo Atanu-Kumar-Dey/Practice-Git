@@ -1,1 +1,2 @@
 I am practicing git for the first time
+And I am enjoying the features of git 
